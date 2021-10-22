@@ -57,9 +57,7 @@ const PostDetail = () => {
                                 Submit
                             </Button>{' '}
                         </div>
-                    </div>
-                    
-                    
+                    </div> 
                 </Card.Body>
             </Card>
             <Table striped bordered hover>
