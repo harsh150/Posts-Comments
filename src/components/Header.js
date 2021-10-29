@@ -5,7 +5,7 @@ const Header = () => {
 
   return (
     <Navbar bg="dark" variant="dark">
-      <h3 href="#home" style={headingTitle}>RevUnit</h3>
+      <h3 href="#home" style={headingTitle}>GaleHealth</h3>
       <Navbar.Collapse className="justify-content-end">
         <Navbar.Text>
           <Link to={'/'} style={headingButton}>
